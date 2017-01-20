@@ -1,6 +1,6 @@
 # TotoApp
 TodoApp Marionette.js
 
-Server: ASP.NET CORE
+- Server: ASP.NET CORE
 
-Client: Marionette.js
+- Client: Marionette.js
